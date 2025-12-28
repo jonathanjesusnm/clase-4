@@ -32,6 +32,9 @@ Content-Type: application/json
     "year": "asad"
 }
 
+### Borrar una pelicula
+DELETE http://localhost:1234/movies/6a360a18-c645-4b47-9a7b-2a71babbf3e0
+
 ### Actualizar una pelicula
 
 PATCH http://localhost:1234/movies/6a360a18-c645-4b47-9a7b-2a71babbf3e0
